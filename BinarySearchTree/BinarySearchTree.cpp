@@ -18,3 +18,14 @@ public:
 	}
 };
 
+class binarytree
+{
+public:
+	Node* ROOT;
+
+	binarytree()
+	{
+		ROOT = NULL;
+	}
+
+	
